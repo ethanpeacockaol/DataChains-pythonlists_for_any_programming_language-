@@ -6,5 +6,5 @@ please see:
 
 ![tape!](res/tape.gif)
 
-too see the code without explanations please see:
+to see the code without explanations please see:
 [shortandsweet notebook](shortandsweet.ipynb)
