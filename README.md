@@ -3,7 +3,7 @@
 #### LinkedLists & DoublyLinkedLists
 
 ## For Solutions:
-please see:
+please see:  
 [linkedlists notebook](linkedlists.ipynb)  
 [doublylinkedlists notebook](doublylinkedlists.ipynb)
 
