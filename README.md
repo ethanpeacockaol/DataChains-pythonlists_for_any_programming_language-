@@ -4,12 +4,10 @@
 
 ## For Solutions:
 please see (labeled):  
-[doubly_linkedlists](doubly_linkedlists.ipynb)  
 [linkedlists](linkedlists.ipynb)  
   
 please see (un-labeled):  
-[doubly_linkedlists](doubly_linked_lists_shortandsweet.ipynb)  
-[linkedlists](linkedlists_shortandsweet.ipynb)  
+[doubly_linkedlists](doubly_linkedlists.ipynb)  
 
 ## For Explanations:
 please see:
