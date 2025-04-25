@@ -8,6 +8,7 @@ please see (labeled):
   
 please see (un-labeled):  
 [doubly_linkedlists](doubly_linkedlists.ipynb)  
+[linkedlists](explanations/shortandsweet.ipynb)
 
 ## For Explanations:
 please see:
