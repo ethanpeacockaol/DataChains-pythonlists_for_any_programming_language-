@@ -12,7 +12,7 @@ please see:
 please see:
 [data chains notebook](explanations/data_chains.ipynb)
 
-![tape!](res/tape.gif)
+![tape!](explanations/res/tape.gif)
 
 to see the code without explanations please see:
 [shortandsweet notebook](explanations/shortandsweet.ipynb)
