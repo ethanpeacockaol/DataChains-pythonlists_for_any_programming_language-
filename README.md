@@ -4,6 +4,8 @@
 
 ## For Solutions:
 please see:
+[linkedlists notebook](linkedlists.ipynb)
+[doublylinkedlists notebook](doublylinkedlists.ipynb)
 
 ## For Explanations:
 please see:
