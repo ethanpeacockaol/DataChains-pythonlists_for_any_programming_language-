@@ -4,6 +4,9 @@
 
 ## For Solutions:  
 ([fundamental mechanism](explanations/fundamentalmechanism.ipynb))  
+
+
+  
 please see (labeled):  
 [linkedlists](linkedlists.ipynb)  
   
