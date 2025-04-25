@@ -4,7 +4,7 @@
 
 ## For Solutions:
 please see:  
-[doublylinkedlists](doublylinkedlists.ipynb)  
+[doublylinkedlists](doubly_linkedlists.ipynb)  
 [linkedlists](linkedlists.ipynb)  
 
 
