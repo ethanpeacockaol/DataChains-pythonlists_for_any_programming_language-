@@ -11,7 +11,7 @@ please see (un-labeled):
 [doubly_linkedlists](doubly_linkedlists.ipynb)  
 [linkedlists](explanations/shortandsweet.ipynb)
 
-## For Explanations:
+## For Explanations: (w/ Tape)
 please see:
 [data chains notebook](explanations/data_chains.ipynb)
 
