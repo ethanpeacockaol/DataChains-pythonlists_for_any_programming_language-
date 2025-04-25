@@ -4,8 +4,9 @@
 
 ## For Solutions:
 please see:  
+[doublylinkedlists](doublylinkedlists.ipynb)  
 [linkedlists](linkedlists.ipynb)  
-[doublylinkedlists](doublylinkedlists.ipynb)
+
 
 ## For Explanations:
 please see:
