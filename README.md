@@ -1,5 +1,6 @@
 # DataChains
 ## Python Lists for ANY programming language
+## LinkedLists & DoublyLinkedLists
 
 please see:
 [data chains notebook](data_chains.ipynb)
