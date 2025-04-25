@@ -2,7 +2,8 @@
 #### Python Lists for ANY programming language
 #### LinkedLists & DoublyLinkedLists
 
-## For Solutions:
+## For Solutions:  
+([fundamental mechanism](explanations/fundamentalmechanism.ipynb))  
 please see (labeled):  
 [linkedlists](linkedlists.ipynb)  
   
