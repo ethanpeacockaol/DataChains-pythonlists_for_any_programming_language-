@@ -13,7 +13,7 @@ please see (un-labeled):
 
 ## For Explanations: (w/ Tape)
 please see:
-[data chains notebook](explanations/data_chains.ipynb)
+[data chains using tape notebook](explanations/data_chains.ipynb)
 
 ![tape!](explanations/res/tape.gif)
 
