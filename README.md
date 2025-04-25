@@ -10,9 +10,9 @@ please see:
 
 ## For Explanations:
 please see:
-[data chains notebook](data_chains.ipynb)
+[data chains notebook](explanations/data_chains.ipynb)
 
 ![tape!](res/tape.gif)
 
 to see the code without explanations please see:
-[shortandsweet notebook](shortandsweet.ipynb)
+[shortandsweet notebook](explanations/shortandsweet.ipynb)
