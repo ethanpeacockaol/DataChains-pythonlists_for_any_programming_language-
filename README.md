@@ -8,12 +8,12 @@
 
   
 please see (labeled):  
-[linkedlists](shortandsweet.ipynb)  
+[linkedlists](explanations/shortandsweet.ipynb)  
   
 please see (un-labeled):  
 *  [doubly_linkedlists](doubly_linkedlists.ipynb)
 
-[linkedlists](explanations/linkedlists.ipynb)
+[linkedlists](linkedlists.ipynb)
 
 
 ## For Explanations: (w/ Tape)
