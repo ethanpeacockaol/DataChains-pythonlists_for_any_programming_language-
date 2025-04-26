@@ -22,7 +22,4 @@ please see:
 ![tape!](explanations/res/tape.gif)
 
 to see the code without explanations please see:
-[shortandsweet notebook](explanations/shortandsweet.ipynb). 
-
-downward boxes animation:
-![downwardboxes](explanations/res/downwardboxes.gif)
+[shortandsweet notebook](explanations/shortandsweet.ipynb)
