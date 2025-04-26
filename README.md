@@ -26,4 +26,4 @@ to see the code without explanations please see:
 
 downward boxes animation:
 ![downwardboxes](explanations/res/downwardboxes.gif)
-([fundamental mechanism](explanations/fundamentalmechanism.ipynb))  
+([MyNumber](explanations/fundamentalmechanism.ipynb))  
