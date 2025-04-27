@@ -9,3 +9,6 @@ triply linked lists
 4ly linked lists
 fifthly linked lists
 x length lists
+
+
+so basically doubly linked lists where the previous link and next link attributes are actually chains of length n
