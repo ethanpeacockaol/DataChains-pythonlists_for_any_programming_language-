@@ -25,3 +25,14 @@ please see:
 downward boxes animation:
 ![downwardboxes](explanations/res/downwardboxes.gif)
 ([MyNumber](explanations/fundamentalmechanism.ipynb))  
+
+
+
+<hr>
+
+# Advancements of this approach  
+
+we need to add the ability to copy python slicing
+
+slicing not added but here is the current work in progress:  
+([previous x](previous_x/previous_x.ipynb)
