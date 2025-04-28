@@ -1,5 +1,9 @@
 # DataChains
 #### Python Lists for ANY! programming language
+please see:  
+[data chains script](datachains.py)
+
+
 #### LinkedLists & DoublyLinkedLists
 
 ## For Solutions:  
