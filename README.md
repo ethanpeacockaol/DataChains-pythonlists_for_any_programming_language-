@@ -1,7 +1,7 @@
 # DataChains
 #### Python Lists for ANY! programming language
 please see:  
-[data chains script](datachains.py)
+[data chains script](datachain.py)
 
 
 #### LinkedLists & DoublyLinkedLists
