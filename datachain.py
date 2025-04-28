@@ -28,11 +28,16 @@ class chain:
 			return self.endlink.data
 
 if __name__ == "__main__":
+	import time
+	start = time.time()
 	newlist = chain()
 	
-	newlist.addlink(1)
-	newlist.addlink(2)
-	newlist.addlink(3)
+	n = 8000000
+	for i in range(n):
+		newlist.addlink(i)
 	
 	for i in range(newlist.length):
-		print(newlist.get_index(i))
+		if i == 7999999:
+			print(newlist.get_index(i))
+			endtime = time.time()
+	print(f"{endtime - start} seconds")
