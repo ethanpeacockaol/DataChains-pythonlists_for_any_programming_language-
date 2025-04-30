@@ -40,5 +40,3 @@ we need to add the ability to copy python slicing
 
 slicing not added but here is the current work in progress:  
 ([slicing(unfinished)](slicing_wip/slicing_todo.ipynb))
-
-![hey](slicing_wip/res/previousxanim.gif)
