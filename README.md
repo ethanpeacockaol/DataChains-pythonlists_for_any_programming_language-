@@ -44,3 +44,4 @@ slicing not added but here is the current work in progress:
 [previous-next](previousandnextnlinkedlist.ipynb)  
 [que](que.ipynb)  
 [stack](stack.ipynb)  
+[target data structure TitanFall example](TitanFall/target-data-structure.ipynb)
